@@ -6,5 +6,5 @@ Outra ferramenta nova que também foi aplicada é o layout em "grid" para constr
 
 Dentre as tecnologias utilizadas neste projeto podemos citar o uso das configurações de estilo para todos os links, seções de plano de fundo e fontes, e responsividade. Sendo todos estes itens ordenados e posicionados com as vastas opções que o CSS fornece.
 
-Para acessar a página basta acessar 
+## Para acessar a página basta acessar 
 
